@@ -18,7 +18,7 @@
 #+REVEAL_MATHJAX: false
 # OPTIONS: org-reveal-mathjax:t
 #+OPTIONS: reveal_controls:nil
-#+REVEAL_ROOT: /
+#+REVEAL_ROOT: https://p2peace.github.io/
 
 * p2peace
 
