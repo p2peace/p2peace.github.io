@@ -21,9 +21,9 @@
 
 * p2peace
 
-- Divided we fall, united we're facsists.
-- Can we be protected in an innocence-preserving manner?
-- Copy/paste fodder: https://dubiousdod.org/wiki/p2peace
+** summary
+- Divided we fall, united we're fascists: Can we be protected in an
+  innocence-preserving manner?
 
 * the problem
 ** physical security
@@ -70,4 +70,9 @@ avoid conflict. No "smart weapon" can teach you that (lazy peasants).
 
 ** components
 
-** technical features
+- cultural:
+- technical:
+
+* culture
+
+* technical
