@@ -13,7 +13,7 @@
 #+LANGUAGE: en
 # SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
-# REVEAL_THEME: 
+#+REVEAL_THEME: black
 #+REVEAL_TRANS: fade
 #+REVEAL_MATHJAX: false
 # OPTIONS: org-reveal-mathjax:t
