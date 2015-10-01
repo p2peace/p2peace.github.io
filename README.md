@@ -2,7 +2,6 @@ Still messy, but see `peacebox-kfp.png` ;)
 
 [sorry. [Spinning next](https://lut.im/h24HO3QhMg/rGbKw01S.png)]
 
-![@risu_ika](https://dubiousdod.org/imageproxy?url=https%3A%2F%2Fdubiousdod.org%2Findie%2F2015%2F09%2Fi-just-berlin-y-all-so-fokken-zef%2Ffiles%2Filoveberlin.gif&h=600&w=600&sig=8d9130e60831498edcce302daf5a7d8e85fa3b3c)
 ------
 
 # reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
