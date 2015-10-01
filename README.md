@@ -1,4 +1,7 @@
-Still messy, but see `peacebox-kfp.png` ;)
+Still messy, but here's a diagram of [https://dubiousdod.org/kfp1].
+tl;dr no more RFIDs ;)
+
+![kfp](https://raw.githubusercontent.com/p2peace/p2peace.github.io/master/peacebox-kfp.png)
 
 [sorry. [Spinning next](https://lut.im/h24HO3QhMg/rGbKw01S.png)]
 
